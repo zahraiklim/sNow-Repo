@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Agile Development 2.0" source="com.snc.sdlc.agile.2.0">6cd9355eb52332107f447197c1ac52f7</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-01 07:47:51</sys_created_on>
+        <sys_id>c7e845e8790003107f44b078012a8497</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">4ff60d68790003107f44b078012a8484</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-01 07:47:51</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

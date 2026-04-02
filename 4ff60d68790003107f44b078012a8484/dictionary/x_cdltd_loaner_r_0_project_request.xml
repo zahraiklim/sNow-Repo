@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bd9745a8790003107f44b078012a842c" extends="agile_filter_definition" label="Project Request" max_length="40" name="x_cdltd_loaner_r_0_project_request" type="collection">
+        <element label="requester" max_length="32" name="requester" reference="sys_user_delegate" type="reference"/>
+        <element label="no" max_length="40" name="no" type="string"/>
+        <element display="true" label="Description" max_length="40" name="description" type="string"/>
+        <index name="index">
+            <element name="requester"/>
+        </index>
+    </element>
+</database>

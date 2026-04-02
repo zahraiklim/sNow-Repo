@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Project Request</name>
+        <order/>
+        <roles>x_cdltd_loaner_r_0.project_request_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-01 07:47:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a2e845e8790003107f44b078012a8469</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Project Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">4ff60d68790003107f44b078012a8484</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">4ff60d68790003107f44b078012a8484</sys_scope>
+        <sys_update_name>sys_ui_application_a2e845e8790003107f44b078012a8469</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-01 07:47:50</sys_updated_on>
+    </sys_ui_application>
+</record_update>
